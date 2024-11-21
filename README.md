@@ -25,6 +25,7 @@ Express.js: A robust backend framework for handling routes and APIs.
 Node.js: The runtime environment for server-side execution.
 Database
 MongoDB: For storing user information and contact form submissions.
+Screenshots
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(16)-front.png)
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(17)-front.png)
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(18)-front.png)
@@ -32,4 +33,5 @@ MongoDB: For storing user information and contact form submissions.
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(20)-front.png)
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(21)-front.png)
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(22)-front.png)
-![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(13)-front.png)
+![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(23)-front.png)
+

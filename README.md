@@ -7,13 +7,16 @@ Features
 Users can create an account using a dynamic registration form.
 Existing users can log in using their credentials, enabling personalized access.
 Implements validation and error handling for a smooth user experience.
-2. Contact Us Form
+
+3. Contact Us Form
 A dynamic form where users can submit their details (name, email, message).
 On form submission, an email notification is sent with the submitted details to the admin/owner.
 Helps streamline communication between the user and the service provider.
-3. Interactive Map
+
+5. Interactive Map
 The Contact Us page features an integrated map, making it easier for users to locate your business.
-4. Static Pages
+
+7. Static Pages
 Includes static pages for services, portfolio, testimonials, and more, offering a professional look to the application.
 Tech Stack
 The project is built using the following technologies:
@@ -21,10 +24,13 @@ The project is built using the following technologies:
 Frontend
 EJS (Embedded JavaScript): For creating dynamic templates and pages.
 HTML/CSS: For static content and styling.
+
 Backend
+
 Express.js: A robust backend framework for handling routes and APIs.
 Node.js: The runtime environment for server-side execution.
 Database
+
 MongoDB: For storing user information and contact form submissions.
 Screenshots
 ![Wedding Organizer](https://github.com/DeepakDev705/Wedding-Organizer/blob/152251a2573a4b022d05605e571ff9bb6d7a3f07/screenshot%20(16)-front.png)

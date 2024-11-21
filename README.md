@@ -1,5 +1,6 @@
 Wedding Organizer
-A comprehensive and visually appealing web application designed to manage and organize weddings efficiently. The project combines both static and dynamic features, allowing users to register, log in, and submit contact forms that trigger email notifications. Additionally, the contact page includes an interactive map for enhanced user experience.
+
+A comprehensive and visually appealing web application with fully Responsive designed to manage and organize weddings efficiently. The project combines both static and dynamic features, allowing users to register, log in, and submit contact forms that trigger email notifications. Additionally, the contact page includes an interactive map for enhanced user experience.
 
 Features
 1. Dynamic Registration and Login
